@@ -9,4 +9,6 @@ body{
 
 div{ margin: 19px;
     padding: 2px;
+    align-content: center;
+    justify-content: space-evenly
 }
