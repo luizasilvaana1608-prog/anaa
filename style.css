@@ -18,3 +18,8 @@ div{ margin: 19px;
 a{
     color:black;
 }
+
+.links{
+display: flex;
+flex-direction: column;
+}
