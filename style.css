@@ -17,6 +17,7 @@ div{ margin: 19px;
 
 a{
     color:black;
+    border: black 4px;
 }
 
 .links{
